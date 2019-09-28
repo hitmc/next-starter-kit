@@ -1,7 +1,7 @@
 {
-  "name": "Bella Campbell",
+  "name": "next-starter-kit",
   "version": "1.0.0",
-  "description": "Professional Makeup Artist and Hair Designer",
+  "description": "My Next JS Starter Kit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hitmc/nextjs-material-kit.git"
+    "url": "git+https://github.com/hitmc/next-starter-kit.git"
   },
   "keywords": [
     "next",
@@ -26,12 +26,12 @@
     "material-kit-react",
     "next-material-kit"
   ],
-  "author": "Jinu Thomas [HITMC]",
+  "author": "HITMC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hitmc/nextjs-material-kit/issues"
+    "url": "https://github.com/hitmc/next-starter-kit.git/issues"
   },
-  "homepage": "https://www.bellacampbell.com",
+  "homepage": "https://github.com/hitmc/next-starter-kit",
   "dependencies": {
     "@material-ui/core": "4.3.2",
     "@material-ui/icons": "4.2.1",
